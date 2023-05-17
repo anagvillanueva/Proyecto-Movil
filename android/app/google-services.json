@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564908175229",
+    "project_id": "canandies",
+    "storage_bucket": "canandies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564908175229:android:85d82e0a4df8df241e6614",
+        "android_client_info": {
+          "package_name": "com.example.canandies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564908175229-5hqofn0mdo9tijm253ecn18m09ccvi52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO6yZsA_K-0xRz_Hv-8qikAJgubnxsMd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564908175229-5hqofn0mdo9tijm253ecn18m09ccvi52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
